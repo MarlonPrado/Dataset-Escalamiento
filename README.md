@@ -143,11 +143,11 @@ plt.ylabel("number colonies")                      # Establecer el título del e
 plt.title("Pie plot of number of colonies")        # Establecer el título del gráfico
 plt.show()                                         # Mostrar el gráfico
 ```
-# Escalamiento de Datos en Base a Atributos de Calidad de un Nuevo Producto Software
+# Escalamiento de Datos en Base a Atributos de Calidad de un Nuevo Producto en el Mercado
 
 Breve descripción del proyecto.
 
-Este proyecto tiene como objetivo realizar el escalamiento de datos utilizando atributos de calidad para evaluar prototipos de diseño de un nuevo producto software. Se aplicará un escalamiento de datos para normalizar las puntuaciones de los atributos de calidad y así obtener una comparación equitativa entre los prototipos.
+Este proyecto tiene como objetivo realizar el escalamiento de datos utilizando atributos de calidad para evaluar prototipos de diseño de un nuevo producto. Se aplicará un escalamiento de datos para normalizar las puntuaciones de los atributos de calidad y así obtener una comparación equitativa entre los prototipos.
 
 ## Requisitos
 
